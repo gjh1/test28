@@ -16,3 +16,4 @@ test1
 test
 test commit
 fesf
+test merge
